@@ -1,32 +1,8 @@
 
 # 👋 Hi, I'm Aniket!
 
-I'm a passionate Full Stack Web Developer skilled in creating scalable web applications using modern technologies. I enjoy solving complex problems, learning new frameworks, and contributing to open-source projects. Here are some of the technologies I work with:
+I'm a  Full Stack Web Developer skilled in creating scalable web applications using modern technologies. I enjoy solving complex problems, learning new frameworks, and contributing to open-source projects. Here are some of the technologies I work with:
 
-## 🚀 Skills & Technologies
-
-### 🌐 Frontend Development
-- **Languages**: JavaScript, HTML5, CSS3
-- **Frameworks/Libraries**: React.js, Redux, Tailwind CSS, Bootstrap
-- **Templating**: EJS, Handlebars
-
-### 🛠 Backend Development
-- **Languages**: JavaScript (Node.js), Python
-- **Frameworks**: Express.js, Django
-- **Database**: PostgreSQL, MongoDB, Prisma ORM
-- **API**: REST, GraphQL
-
-### 🔗 DevOps & Tools
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker
-- **CI/CD**: GitHub Actions, Docker Compose
-- **Cloud Services**: Heroku, Netlify
-
-### ⚙️ Other Tools & Technologies
-- **Authentication**: JWT, OAuth2
-- **Deployment**: Nginx, PM2
-- **Task Runners**: NPM, Yarn
-- **Package Managers**: NPM, Pip
 
 ## 🌱 Currently Learning
 - Advanced Django for building complex web apps
