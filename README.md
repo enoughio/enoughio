@@ -8,15 +8,7 @@ I'm a  Full Stack Web Developer skilled in creating scalable web applications us
 - Advanced Django for building complex web apps
 - Microservices architecture using Docker and Kubernetes
 
-## 💼 Projects
-Here are a few highlights of my recent projects:
 
-
-- **[Project 1: URL Shortener](#)**  
-  A highly scalable URL shortening service built with Node.js, Express, and MongoDB.
-
-- **[Project 2: Todo App](#)**  
-  A dynamic todo list app using EJS for templating and Express for backend routing.
 
 ## 📫 Let's Connect!
 - LinkedIn: [Aniket on LinkedIn](https://www.linkedin.com/in/aniket-jatav-abb2a6285/)
